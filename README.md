@@ -1,2 +1,1 @@
-# SPL-TOKEN
- Create Your SPL Token
+ CREATE YOUR SPL-TOKEN
